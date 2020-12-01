@@ -4,7 +4,7 @@ Process control code for a pharmaceutical process plant.
 
 This code was developed in Fortran 90, during my masters course at COPPE - UFRJ (Federal University of Rio de Janeiro). 
 
-###*The code present in this repository so far is the starter code for the simulations. Sample simulations and results will be added later*
+*The code present in this repository so far is the starter code for the simulations. Sample simulations and results will be added later*
 
 ### Description
 The project was developed at a pharmaceutical pilot plant, the first one in Brazil for polymers. An advanced process control software was developed to improve process control of the reactions conducted on a 10 L reactor. This software comprised:
